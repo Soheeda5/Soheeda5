@@ -1,5 +1,7 @@
 # 정소희
-## 즐겁게 코딩하는 개발자
+### 즐겁게 코딩하는 개발자
+
+<img src="https://img.shields.io/badge/테스트-45ED1D?style=flat-square&logo=Adafruit&logoColor=AC8AED"/>
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
